@@ -5,6 +5,7 @@ body {
   align-items: center;
   background: black;
   height: 100vh;
+  overflow: hidden;
 }
 
 canvas {
